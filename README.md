@@ -33,4 +33,10 @@ everyone usually call me as Agum or Gumz
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="boostrap" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/r/react-native-1.svg" alt="reactnative" width="50" height="50"/>
+  
+  
+  
 </div>
