@@ -9,7 +9,7 @@ everyone usually call me as Agum or Gumz
 
 <dd>-- I was born in Denpasar, 9 Mei 1999 :star2:</dd>
 
-<dd>-- I like to code and play games :computer::games:</dd>
+<dd>-- I like to code and play games :computer::video_game:</dd>
 
 <dd>-- I am a Computer System student :desktop_computer:</dd>
 
