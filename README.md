@@ -13,6 +13,12 @@ everyone usually call me as Agum or Gumz
 
 <dd>-- I am a Computer System student :desktop_computer:</dd>
 
+<div id="social-badges">
+  <a href="https://id.linkedin.com/in/mei-sastra-jayadi-044625231" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">
+    Check Out My CV :page_facing_up:
+  </a>
+</div>
+
 ---
 <div align="center">
 
