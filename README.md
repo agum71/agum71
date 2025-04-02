@@ -13,6 +13,12 @@ everyone usually call me as Agum or Gumz
 
 <dd>-- I am a Computer System student :desktop_computer:</dd>
 
+<div id="social-badges">
+  <a href="https://id.linkedin.com/in/mei-sastra-jayadi-044625231" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">
+    Check Out My CV :page_facing_up:
+  </a>
+</div>
+
 ---
 <div align="center">
 
@@ -36,7 +42,5 @@ everyone usually call me as Agum or Gumz
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="boostrap" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
   <img src="https://github.com/detain/svg-logos/blob/master/svg/r/react-native-1.svg" alt="reactnative" width="50" height="50"/>
-  
-  
-  
+  <img src="https://github.com/agum71/agum71/blob/main/arduino.svg" alt="reactnative" width="50" height="50"/>
 </div>
