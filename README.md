@@ -36,7 +36,5 @@ everyone usually call me as Agum or Gumz
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="boostrap" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
   <img src="https://github.com/detain/svg-logos/blob/master/svg/r/react-native-1.svg" alt="reactnative" width="50" height="50"/>
-  
-  
-  
+  <img src="https://github.com/agum71/agum71/blob/main/arduino.svg" alt="reactnative" width="50" height="50"/>
 </div>
